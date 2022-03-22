@@ -84,7 +84,7 @@
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <!-- <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"> -->
-    <img alt="nodejs" height="150" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img alt="nodejs" height="52" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
   </a>
 </p>

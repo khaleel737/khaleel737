@@ -20,7 +20,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+	<img src="https://komarev.com/ghpvc/?username=khaleel737&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
 	<a href = "https://commits.top/united_states.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
 	</a>
@@ -43,6 +43,10 @@
 
 <br>
 <br>
+
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.19
+
 
 
 ## 👀 My Competitive Programming Profiles
@@ -224,3 +228,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](https://metrics.lecoq.io/khaleel737?template=classic&isocalendar=1&languages=1&followup=1&code=1&activity=1&achievements=1&notable=1&repositories=1&introduction=1&pagespeed=1&tweets=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=100&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=%40kal_musleh&config.timezone=America%2FLos_Angeles)
+

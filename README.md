@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi , I'm Khaleel Musleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://timely-seahorse-af3b6b.netlify.app/"></a>
+  <a href="https://github.com/khaleel737/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Student;Javascript+%7C+Node.JS+%7C+React.JS+;Bloomtech+Full+Stack+Web+Dev;Class+Web50+2022"></a>
 </p>
 
 

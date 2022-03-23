@@ -22,7 +22,9 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=khaleel737&label=Profile%20views&color=0e75b6&style=plastic" alt="khaleel737" /> 
 	<a href = "https://commits.top/united_states.html" target="_blank">
-		<img src="https://commits.top/united_states.html" alt="khaleel737" target="_blank"/> 
+<a href="https://github.com/khaleel737">
+				<img src="https://avatars.githubusercontent.com/u/17970721?v=4" width="24" alt="Avatar of khaleel737"> kal.ελ
+			</a><br/>
 	</a>
 </p>
 

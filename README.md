@@ -15,6 +15,19 @@
 </p>
 
 
+<p align="center">
+	At the end of the day, my job involves problems, after all, we all face problems as humans, yet we strive to solve them, regardless of how big or small we work together or individually to solve we get to the goal of accomplishment, this is why I embrace it, technical problems are nothing more than the next big thing, and I love it, solving each one is a pavement to a better future, I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goal and shared values that unite us. 
+
+That, to me, means strength, it means being a protagonist, and it means creating a real team.
+
+Lately, I've been learning with Bloomtech. That means I'm seeking out the future employers I'm seeking to work for. Even if we only have a message or two between one another, my goal is to ensure I’m equipped with the knowledge in Tech companies need. To learn what you need out of a new role so that I can help you pursue only the goals that fit those wants and needs, and to be respectful of your time and honest with you.
+
+This is not a robot, this profile has a real person behind it, too!!! In my free time you might find me: hiking, eating hot chicken, listening to Andrea Bocelli & Luciano Pavarotti, reading (do Audiobooks & well-sourced podcasts count?) about history, political science, and economics, scrolling through Reddit, or playing video or tabletop games with friends! 
+
+I made the journey to San Francisco a year ago after spending a majority of my life in Chicago, London, Palestine and Ukraine, and what a ride it has been!
+</p>
+
+
 
 
 <br>

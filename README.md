@@ -16,7 +16,7 @@
 
 
 <p align="center">
-	At the end of the day, my job involves problems, after all, we all face problems as humans, yet we strive to solve them, regardless of how big or small we work together or individually to solve we get to the goal of accomplishment, this is why I embrace it, technical problems are nothing more than the next big thing, and I love it, solving each one is a pavement to a better future, I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goal and shared values that unite us. 
+At the end of the day, my job involves problems, after all, we all face problems as humans, yet we strive to solve them, regardless of how big or small we work together or individually to solve we get to the goal of accomplishment, this is why I embrace it, technical problems are nothing more than the next big thing, and I love it, solving each one is a pavement to a better future, I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goal and shared values that unite us. 
 
 That, to me, means strength, it means being a protagonist, and it means creating a real team.
 

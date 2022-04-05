@@ -16,15 +16,18 @@
 
 
 <p align="center">
-At the end of the day, my job involves problems, after all, we all face problems as humans, yet we strive to solve them, regardless of how big or small we work together or individually to solve we get to the goal of accomplishment, this is why I embrace it, technical problems are nothing more than the next big thing, and I love it, solving each one is a pavement to a better future, I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goal and shared values that unite us. 
+About
+As a former entrapreneur I enjoy figuring out how things work. My previous career was in financial markets and I learned how under-developed financial markets are and thats why I aimed to be a full stack web developer in solving our current financial system.
 
-That, to me, means strength, it means being a protagonist, and it means creating a real team.
+At the end of the day, as a full stack web developer my job will involve helping connect humans and computers together to solve problems. This is why I embrace technical problem solving because solving each one is a pavement to a better future. 
 
-Lately, I've been learning with Bloomtech. That means I'm seeking out the future employers I'm seeking to work for. Even if we only have a message or two between one another, my goal is to ensure I’m equipped with the knowledge in Tech companies need. To learn what you need out of a new role so that I can help you pursue only the goals that fit those wants and needs, and to be respectful of your time and honest with you.
+Technical problems are nothing more than the next big thing, and "I love it". I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goals and shared values that unite us. 
 
-This is not a robot, this profile has a real person behind it, too!!! In my free time you might find me: hiking, eating hot chicken, listening to Andrea Bocelli & Luciano Pavarotti, reading (do Audiobooks & well-sourced podcasts count?) about history, political science, and economics, scrolling through Reddit, or youtubing or talking with friends! 
+As a full stack web developer student at BloomTech, I have gained knowledge in ReactJS, NodeJS, Javascript, HTML, CSS, Wep App Development, Hosting and Maintaining applications. During my project based learning, as a front end web developer, one of the projects I am passionate about is African Marketplace. In this project I used ReactJS, NodeJS in building an Ecommerce platform to sell to consumers.
 
-I made the journey to San Francisco a year ago after spending a majority of my life in Chicago, London, Palestine and Ukraine, and what a ride it has been!
+I'm seeking out an employer who values my skills and qualifications. My goal is to ensure I’m equipped with the knowledge in Tech that companies need. This is not a robot, this profile has a real person behind it.
+
+In my free time you might find me: hiking, eating hot chicken, listening to Andrea Bocelli & Luciano Pavarotti, reading (do Audiobooks & well-sourced podcasts count?) about history, political science, and economics, scrolling through Reddit, or youtubing or talking with friends. I made the journey to San Francisco a year ago after spending a majority of my life in Chicago, London, Palestine and Ukraine, and what a ride it has been!
 </p>
 
 

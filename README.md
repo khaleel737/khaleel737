@@ -51,7 +51,7 @@ In my free time you might find me: hiking, eating hot chicken, listening to Andr
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `CodeWars.com`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/18kabuTv-SrW3wlZugWOonIuJX-wxR7_Ft47rzdvIm-E/edit?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1jV2muA5R3PBVY4pLvl1Ao3_MUrpYVgOM/edit?usp=sharing&ouid=100894003475913565915&rtpof=true&sd=true).
 - :nerd_face: Always `learning new things`
 
 <br>

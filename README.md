@@ -10,10 +10,10 @@
 - ⚡ Fun fact: ... -->
 
 <h1 align="center">Hi , I'm Khaleel Musleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/khaleel737/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Student;Javascript+%7C+Node.JS+%7C+React.JS+;Bloomtech+Full+Stack+Web+Dev;Class+Web50+2022"></a>
 </p>
-
+ -->
 
 <p align="center">
 Technical problems are nothing more than the next big thing, and "I love it". I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goals and shared values that unite us. 

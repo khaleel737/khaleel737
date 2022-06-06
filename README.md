@@ -16,17 +16,11 @@
 
 
 <p align="center">
-As a former entrapreneur I enjoy figuring out how things work. My previous career was in financial markets and I learned how under-developed financial markets are and thats why I aimed to be a full stack web developer in solving our current financial system.
-
-At the end of the day, as a full stack web developer my job will involve helping connect humans and computers together to solve problems. This is why I embrace technical problem solving because solving each one is a pavement to a better future. 
-
 Technical problems are nothing more than the next big thing, and "I love it". I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goals and shared values that unite us. 
 
 As a full stack web developer student at BloomTech, I have gained knowledge in ReactJS, NodeJS, Javascript, HTML, CSS, Wep App Development, Hosting and Maintaining applications. During my project based learning, as a front end web developer, one of the projects I am passionate about is African Marketplace. In this project I used ReactJS, NodeJS in building an Ecommerce platform to sell to consumers.
 
 I'm seeking out an employer who I can bring value to. My goal is to ensure I use the knowledge and experience in Tech that companies need. This is not a robot, this profile has a real person behind it.
-
-In my free time you might find me: hiking, eating hot chicken, listening to Andrea Bocelli & Luciano Pavarotti, reading (do Audiobooks & well-sourced podcasts count?) about history, political science, and economics, scrolling through Reddit, or youtubing or talking with friends. I made the journey to San Francisco a year ago after spending a majority of my life in Chicago, London, Palestine and Ukraine, and what a ride it has been!
 </p>
 
 

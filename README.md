@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Web Developer • Challenging The Status Quo</h1>
+<h1 align="left">Full Stack Web Developer • Challenging The Status Quo</h1>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,13 +9,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<h1 align="center">Hi , I'm Khaleel Musleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- <p align="center">
-  <a href="https://github.com/khaleel737/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Student;Javascript+%7C+Node.JS+%7C+React.JS+;Bloomtech+Full+Stack+Web+Dev;Class+Web50+2022"></a>
+<h1 align="left">Hi , I'm Khaleel Musleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- <p align="left">
+  <a href="https://github.com/khaleel737/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?left=true&vleft=true&lines=Computer+Science+Student;Javascript+%7C+Node.JS+%7C+React.JS+;Bloomtech+Full+Stack+Web+Dev;Class+Web50+2022"></a>
 </p>
  -->
 
-<p align="center">
+<p align="left">
 Technical problems are nothing more than the next big thing, and "I love it". I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goals and shared values that unite us. 
 
 
@@ -27,7 +27,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
 <br>
 
-<p align="center"> 
+<p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=khaleel737&label=Profile%20views&color=0e75b6&style=plastic" alt="khaleel737" /> 
 	<a href = "https://commits.top/united_states.html" target="_blank">
 <a href="https://github.com/khaleel737">
@@ -49,7 +49,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleel737&theme=algolia" alt="khaleel737" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleel737&theme=algolia" alt="khaleel737" /></p>
 
 <br>
 <br>
@@ -82,7 +82,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
 ### 👉 Programming languages
 
-<p align="center"> 
+<p align="left"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -112,7 +112,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
 
 ### 👉 Frontend Development
-<p align="center"> 
+<p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -125,7 +125,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
  ### 👉 Software & Tools
  
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
@@ -140,7 +140,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
  ### 👉 IDEs
  
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -151,7 +151,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
  ### 👉 Competitive Programming & Problem Solving
  
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>	
   &emsp;
@@ -164,7 +164,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
  ### 👉 Operating Systems
  
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
@@ -181,7 +181,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="khaleel737's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khaleel737&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
@@ -202,7 +202,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaleel737&layout=compact&theme=algolia" alt="khaleel737" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaleel737&layout=compact&theme=algolia" alt="khaleel737" /></a> </p>
 
 
 <!--
@@ -220,7 +220,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Khaleel Musleh's Metrics</h2>
+<h2 align="left">Khaleel Musleh's Metrics</h2>
 
 ![Metrics](https://metrics.lecoq.io/khaleel737?template=classic&isocalendar=1&languages=1&followup=1&code=1&activity=1&achievements=1&notable=1&repositories=1&introduction=1&pagespeed=1&tweets=1&projects=1&gists=1&sponsors=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=100&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&sponsors.sections=goal%2C%20about&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=%40kal_musleh&config.timezone=America%2FLos_Angeles)
 

@@ -58,7 +58,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
 ## 👀 My Competitive Programming Profiles
 
-<p align="center">
+<p align="left">
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)	
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
@@ -68,7 +68,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 	
 	
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Let's Connect
-<p align="center">
+<p align="left">
 	<a href="mailto:khaleelmusleh@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/khaleel737"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/+14156024049"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>

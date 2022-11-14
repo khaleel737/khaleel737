@@ -59,6 +59,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">
+
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)	
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)

@@ -7,7 +7,7 @@
 Technical problems are nothing more than the next big thing, and "I love it". I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goals and shared values that unite us. 
 
 
-I'm seeking out an employer who I can bring value to. My goal is to ensure I use the knowledge and experience in Tech that companies need. This is not a robot, this profile has a real person behind it.
+I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wanted to change the world, today I am wise so i am changing myself". My goal is to ensure I use the knowledge and experience in Tech that companies need. This is not a robot, this profile has a real person behind it.
 </p>
 
 

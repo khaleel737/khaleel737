@@ -1,4 +1,4 @@
-<h1 align="left">Full Stack Web & Mobile Developer</h1>
+<h1 align="center">Full Stack Web & Mobile Developer</h1>
 
 
 <h1 align="center">Hi , I'm Khaleel Musleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -34,8 +34,9 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 - 📫 How to reach me: email, twitter and a simple SMS works fine.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I wanted to be a Formula 1 Driver when I was in highschool but didnt make it 🐢
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1JXx5UlS99o9CicReWmaWbbzfIdZHJk7Byt5VKWI2ujw/edit?usp=sharing).
+- 🙋‍♂️ I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1JXx5UlS99o9CicReWmaWbbzfIdZHJk7Byt5VKWI2ujw/edit?usp=sharing).
 
+<br>
 
 
 ## 👀 My Competitive Programming Profiles
@@ -51,6 +52,8 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 </p>
 	
+  <br>
+
 	
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Let's Connect
 <p align="left">
@@ -64,6 +67,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 </p>
 
 
+<br>
 
 
 ## 🛠️ My Skills
@@ -89,6 +93,8 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
   </a>
   &emsp;
 </p>
+
+<br>
 
 
 
@@ -128,6 +134,9 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
   </a> 
 </p>
 
+<br>
+
+
 ### 👉 Backend Development
 <p align="left"> 
   &emsp; 
@@ -163,6 +172,8 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   </a> 
 </p>
+
+<br>
 
 
 ### 👉 Mobile Development
@@ -209,6 +220,8 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
   </a> 
 </p>
 
+<br>
+
 
  ### 👉 Software & Tools
  
@@ -224,6 +237,9 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
   &emsp;
 </p>
 
+<br>
+
+
  ### 👉 IDEs
  
 <p align="left">
@@ -236,6 +252,9 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
      &emsp;
     <a href="#"><img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /></a>
 </p>
+
+<br>
+
 
 
  ### 👉 Competitive Programming & Problem Solving
@@ -250,6 +269,9 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
  </p>
+
+<br>
+
 
  ### 👉 Operating Systems
  

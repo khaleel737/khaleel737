@@ -1,19 +1,7 @@
 <h1 align="left">Full Stack Web Developer • Challenging The Status Quo</h1>
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
 <h1 align="center">Hi , I'm Khaleel Musleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- <p align="left">
-  <a href="https://github.com/khaleel737/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?left=true&vleft=true&lines=Computer+Science+Student;Javascript+%7C+Node.JS+%7C+React.JS+;Bloomtech+Full+Stack+Web+Dev;Class+Web50+2022"></a>
-</p>
- -->
 
 <p align="left">
 Technical problems are nothing more than the next big thing, and "I love it". I believe we all need help, whether it’s me or anyone around me, that’s why a team is more than just a crew working on different tasks, it’s the common goals and shared values that unite us. 
@@ -38,21 +26,15 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` Web Developer Student at Bloomtech Institute of Technology
-- :Class: `Web50` Graduation April 2022
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `CodeWars.com`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1jV2muA5R3PBVY4pLvl1Ao3_MUrpYVgOM/edit?usp=sharing&ouid=100894003475913565915&rtpof=true&sd=true).
-- :nerd_face: Always `learning new things`
-
-<br>
-
-## 🔥 Streak Stats
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleel737&theme=algolia" alt="khaleel737" /></p>
-
-<br>
-<br>
+- 📚 I Studied programming at Bloomtech Institute of Technology (Class September 2022)
+- 🌱 I’m currently learning Java and C++ getting to learn High-Level Languages
+- 👯 I’m looking to collaborate on interesting projects, I love the challenge and Im a quick learner.
+- 🤔 I’m looking for help with learning advance topics, I try to find the answers online but sometimes they're not there, so it takes more time to solve coding problems.
+- 💬 Ask me about traveling and finance, that was my previous career before programming, but since I found some new love in coding you might as well ask before I forget 🙈
+- 📫 How to reach me: email, twitter and a simple SMS works fine.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I wanted to be a Formula 1 Driver when I was in highschool but didnt make it 🐢
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1JXx5UlS99o9CicReWmaWbbzfIdZHJk7Byt5VKWI2ujw/edit?usp=sharing).
 
 
 
@@ -286,7 +268,12 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
 ## 📊 Github Stats
 
+<br>
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleel737&theme=algolia" alt="khaleel737" /></p>
+
+<br>
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>

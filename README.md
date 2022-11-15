@@ -1,4 +1,4 @@
-<h1 align="left">Full Stack Web Developer • Challenging The Status Quo</h1>
+<h1 align="left">Full Stack Web & Mobile Developer</h1>
 
 
 <h1 align="center">Hi , I'm Khaleel Musleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -278,7 +278,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="khaleel737's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khaleel737&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
@@ -299,9 +299,9 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
 ## :trophy: Git profile Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaleel737&layout=compact&theme=algolia" alt="khaleel737" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaleel737&layout=compact&theme=algolia" alt="khaleel737" /></a> </p>
 
-<h2 align="left">Khaleel Musleh's Metrics</h2>
+<h2 align="center">Khaleel Musleh's Metrics</h2>
 
 ![Metrics](https://metrics.lecoq.io/khaleel737?template=classic&isocalendar=1&languages=1&followup=1&code=1&activity=1&achievements=1&notable=1&repositories=1&introduction=1&pagespeed=1&tweets=1&projects=1&gists=1&sponsors=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=100&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&sponsors.sections=goal%2C%20about&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=%40kal_musleh&config.timezone=America%2FLos_Angeles)
 

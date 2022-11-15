@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<h1 align="left">Hi , I'm Khaleel Musleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Khaleel Musleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- <p align="left">
   <a href="https://github.com/khaleel737/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?left=true&vleft=true&lines=Computer+Science+Student;Javascript+%7C+Node.JS+%7C+React.JS+;Bloomtech+Full+Stack+Web+Dev;Class+Web50+2022"></a>
 </p>
@@ -27,7 +27,7 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 
 <br>
 
-<p align="left"> 
+<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=khaleel737&label=Profile%20views&color=0e75b6&style=plastic" alt="khaleel737" /> 
 	<a href = "https://commits.top/united_states.html" target="_blank">
 <a href="https://github.com/khaleel737">

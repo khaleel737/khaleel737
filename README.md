@@ -61,8 +61,11 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 <p align="left">
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)	
+  &emsp;
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+  &emsp;
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+  &emsp;
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 </p>
 	
@@ -70,8 +73,11 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Let's Connect
 <p align="left">
 	<a href="mailto:khaleelmusleh@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    &emsp;
 	<a href="https://github.com/khaleel737"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    &emsp;
 	<a href="https://wa.me/+14156024049"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+    &emsp;
 	<a href="https://www.linkedin.com/in/khaleelmusleh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -97,16 +103,9 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
   </a>
   &emsp;
    <a href="https://jestjs.io/" target="_blank">
-    <img alt="jestJs" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   </a>
   &emsp;
-   <a href="https://expressjs.com/" target="_blank">
-    <img alt="expressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  </a>
-  &emsp;
-   <a href="https://redux.js.org/" target="_blank">
-    <img alt="reduxJs" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  </a>
 </p>
 
 
@@ -114,6 +113,22 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  </a> 
+  &emsp;
+   <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  </a> 
+  &emsp;
+    <a href="https://redux.js.org/" target="_blank">
+    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  </a>
+  &emsp;
+  <a href="https://redux.js.org/" target="_blank">
+    <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+  </a>
+  &emsp;
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
@@ -121,7 +136,97 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
+  &emsp;
+    <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="AWS Amplify" src="https://img.shields.io/badge/AWS-Amplify-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="Stripe API" src="https://img.shields.io/badge/stripe-API-54039A?style=for-the-badge&logo=stripe&logoColor=white">
+  </a> 
 </p>
+
+### 👉 Backend Development
+<p align="left"> 
+  &emsp; 
+     <a href="https://www.nodejs.org" target="_blank">
+    <img alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+  &emsp;
+   <a href="https://expressjs.com/" target="_blank">
+    <img alt="expressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+    <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="Stripe Node API" src="https://img.shields.io/badge/stripe-API-54039A?style=for-the-badge&logo=stripe&logoColor=white">
+  </a> 
+    &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a> 
+    &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  </a> 
+</p>
+
+
+### 👉 Mobile Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CocoaPods" src="https://img.shields.io/badge/cocoapod-orange?style=for-the-badge&logo=pod&logoColor=white">
+  </a> 
+  &emsp;
+    <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="Viper-Architecture" src="https://img.shields.io/badge/viper-purple?style=for-the-badge&logo=pod&logoColor=white">
+  </a> 
+  &emsp;
+    <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="MVVM Architecture" src="https://img.shields.io/badge/MVVM-red?style=for-the-badge&logo=pod&logoColor=white">
+  </a> 
+  &emsp;
+      <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="RxSwift" src="https://img.shields.io/badge/rxswift-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white">
+  </a> 
+  &emsp;
+      <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="SnapKit" src="https://img.shields.io/badge/SnapKit-%23FFFC00.svg?style=for-the-badge&logo=snapkit&logoColor=white">
+  </a> 
+  &emsp;
+    <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="FireBase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+  </a> 
+  &emsp;
+   <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="SupaBase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  </a> 
+  &emsp;
+   <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white">
+  </a> 
+</p>
+
 
  ### 👉 Software & Tools
  
@@ -135,7 +240,6 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
   &emsp;
-  &emsp;
 </p>
 
  ### 👉 IDEs
@@ -147,7 +251,10 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" /></a>
+     &emsp;
+    <a href="#"><img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /></a>
 </p>
+
 
  ### 👉 Competitive Programming & Problem Solving
  
@@ -170,7 +277,9 @@ I'm seeking out an employer who I can bring value to. My goal is to ensure I use
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>	
+  &emsp;
+     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>   
 </p>
 
 <br/>

@@ -167,6 +167,8 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   </a> 
+    &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
 </p>
 
 <br>
@@ -228,8 +230,6 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
   &emsp;
 </p>
 

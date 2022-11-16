@@ -39,7 +39,7 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
 <br>
 
 
-## 👀 My Competitive Programming Profiles
+<!-- ## 👀 My Competitive Programming Profiles
 
 <p align="left">
 
@@ -52,7 +52,7 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 </p>
 	
-  <br>
+  <br> -->
 
 	
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Let's Connect
@@ -101,11 +101,11 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank">
     <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </a> 
   &emsp;
-   <a href="https://www.w3schools.com/css/" target="_blank">
+   <a href="https://nextjs.org/" target="_blank">
     <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   </a> 
   &emsp;
@@ -113,11 +113,11 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   </a>
   &emsp;
-  <a href="https://redux.js.org/" target="_blank">
+  <a href="https://mui.com/" target="_blank">
     <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
   </a>
   &emsp;
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://html.com/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
@@ -125,11 +125,11 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
   &emsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
+    <a href="https://aws.amazon.com/amplify/" target="_blank">
     <img alt="AWS Amplify" src="https://img.shields.io/badge/AWS-Amplify-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.stripe.com" target="_blank">
     <img alt="Stripe API" src="https://img.shields.io/badge/stripe-API-54039A?style=for-the-badge&logo=stripe&logoColor=white">
   </a> 
 </p>
@@ -147,10 +147,6 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
    <a href="https://expressjs.com/" target="_blank">
     <img alt="expressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
   &emsp;
     <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -179,43 +175,43 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
 ### 👉 Mobile Development
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="#" target="_blank"> 
    <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="#" target="_blank">
     <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="#" target="_blank">
     <img alt="CocoaPods" src="https://img.shields.io/badge/cocoapod-orange?style=for-the-badge&logo=pod&logoColor=white">
   </a> 
   &emsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
+    <a href="#" target="_blank">
     <img alt="Viper-Architecture" src="https://img.shields.io/badge/viper-purple?style=for-the-badge&logo=pod&logoColor=white">
   </a> 
   &emsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
+    <a href="#" target="_blank">
     <img alt="MVVM Architecture" src="https://img.shields.io/badge/MVVM-red?style=for-the-badge&logo=pod&logoColor=white">
   </a> 
   &emsp;
-      <a href="https://www.w3schools.com/css/" target="_blank">
+      <a href="#" target="_blank">
     <img alt="RxSwift" src="https://img.shields.io/badge/rxswift-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white">
   </a> 
   &emsp;
-      <a href="https://www.w3schools.com/css/" target="_blank">
+      <a href="#" target="_blank">
     <img alt="SnapKit" src="https://img.shields.io/badge/SnapKit-%23FFFC00.svg?style=for-the-badge&logo=snapkit&logoColor=white">
   </a> 
   &emsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
+    <a href="#" target="_blank">
     <img alt="FireBase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
   </a> 
   &emsp;
-   <a href="https://www.w3schools.com/css/" target="_blank">
+   <a href="#" target="_blank">
     <img alt="SupaBase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   </a> 
   &emsp;
-   <a href="https://www.w3schools.com/css/" target="_blank">
+   <a href="#" target="_blank">
     <img alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white">
   </a> 
 </p>

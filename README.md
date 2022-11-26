@@ -18,8 +18,8 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=khaleel737&label=Profile%20views&color=0e75b6&style=plastic" alt="khaleel737" /> 
 	<a href = "https://commits.top/united_states.html" target="_blank">
-<a href="https://github.com/khaleel737">
-				<img src="https://authntech.com" width="24" alt="Authntech website"> AuthNTech Blog
+<a href="https://authntech.com" target="https://authntech.com">
+			AuthNTech Blog
 			</a><br/>
 	</a>
 </p>

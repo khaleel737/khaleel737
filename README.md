@@ -28,13 +28,13 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
 ## :sassy_man:  About me
 - 📚 I Studied programming at Bloomtech Institute of Technology (Class September 2022)
 - 🌱 I’m currently learning Java and C++ getting to learn High-Level Languages
-- 👯 I’m looking to collaborate on interesting projects, I love the challenge and Im a quick learner.
-- 🤔 I’m looking for help with learning advance topics, I try to find the answers online but sometimes they're not there, so it takes more time to solve coding problems.
+- 👯 I’m looking to collaborate on interesting projects, I love the challenge and Im a quick learner
+- 🤔 I’m looking for help with learning advance topics, I try to find the answers online but sometimes they're not there, so it takes more time to solve coding problems
 - 💬 Ask me about traveling and finance, that was my previous career before programming, but since I found some new love in coding you might as well ask before I forget 🙈
-- 📫 How to reach me: email, twitter and a simple SMS works fine.
+- 📫 How to reach me: email, twitter and a simple SMS works fine
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I wanted to be a Formula 1 Driver when I was in highschool but didnt make it 🐢
-- 🙋‍♂️ I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1JXx5UlS99o9CicReWmaWbbzfIdZHJk7Byt5VKWI2ujw/edit?usp=sharing).
+- 🙋‍♂️ I’m currently open for: `An Intern` or a new `job opportunity`
 
 <br>
 

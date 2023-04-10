@@ -61,8 +61,6 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
     &emsp;
 	<a href="https://github.com/khaleel737"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     &emsp;
-	<a href="https://wa.me/+14156024049"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-    &emsp;
 	<a href="https://www.linkedin.com/in/khaleelmusleh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 

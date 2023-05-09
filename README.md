@@ -27,7 +27,7 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
 
 ## :sassy_man:  About me
 - 📚 I Studied programming at Bloomtech Institute of Technology (Class September 2022)
-- 🌱 I’m currently learning Java and C++ getting to learn High-Level Languages
+- 🌱 I’m currently learning C++ getting to learn High-Level Languages
 - 👯 I’m looking to collaborate on interesting projects, I love the challenge and Im a quick learner
 - 🤔 I’m looking for help with learning advance topics, I try to find the answers online but sometimes they're not there, so it takes more time to solve coding problems
 - 💬 Ask me about traveling and finance, that was my previous career before programming, but since I found some new love in coding you might as well ask before I forget 🙈
@@ -136,6 +136,10 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
 
 ### 👉 Backend Development
 <p align="left"> 
+	 &emsp;
+  <a href="https://www.java.com/en/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a> 
   &emsp; 
      <a href="https://www.nodejs.org" target="_blank">
     <img alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />

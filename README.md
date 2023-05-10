@@ -73,6 +73,10 @@ I'm looking for challenges to grow, as Rumi Says "yesterday i was clever so I wa
 
 <p align="left"> 
   &emsp;
+  <a href="https://www.java.com/en/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a> 
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    </a>

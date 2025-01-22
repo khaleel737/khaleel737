@@ -1,5 +1,5 @@
 <h1 align="center">Khaleel Musleh</h1>
-<h2 align="center">Full Stack Developer | AI Enthusiast</h2>
+<h2 align="center">Software | AI Enthusiast</h2>
 
 <p align="center">
 Hi, I’m Khaleel—a developer passionate about building impactful software. From scalable web applications to sleek mobile experiences, I bring ideas to life with clean, efficient code.

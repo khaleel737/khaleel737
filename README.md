@@ -17,6 +17,5 @@ Hi, I’m Khaleel—a developer passionate about building impactful software. Fr
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://github.com/khaleel737"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/khaleelmusleh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>

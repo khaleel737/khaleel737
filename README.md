@@ -9,9 +9,6 @@ Hi, I’m Khaleel—a developer passionate about building impactful software. Fr
 
 ### 🌟 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleel737&theme=algolia" alt="Streak Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khaleel737&show_icons=true&count_private=true&theme=algolia" alt="GitHub Stats" height="192px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khaleel737&langs_count=10&layout=compact&theme=algolia" alt="Top Languages" height="192px" />
 </p>
